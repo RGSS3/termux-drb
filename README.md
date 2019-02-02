@@ -11,3 +11,12 @@ on PC
 MOBILE=druby://192.168.1.2:8787 ruby main.rb
 ```
 
+## Install
+```shell
+git clone https://github.com/RGSS3/termux-drb
+```
+If you don't get a GIT on your phone, it's easy to 
+```shell
+apt install git
+```
+
