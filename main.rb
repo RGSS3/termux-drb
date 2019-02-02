@@ -1,7 +1,7 @@
 require 'drb/drb'
 
 # The URI for the server to connect to
-uri="druby://localhost:8787"
+uri="druby://0.0.0.0:8787"
 
 module Main
   def self.eval(*args)
